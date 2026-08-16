@@ -1,7 +1,7 @@
 # 💫 Sobre Mim:
  
 
-Olá, meu nome é Ystefani, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. Além da faculdade, estou cursando presencialmente o "Condomínio Digital", onde desenvolvo habilidades técnicas em programação, como Python e Java, além de aprender sobre bancos de dados. Também faço um curso adicional de Java para aprimorar ainda mais meus conhecimentos. Além das competências técnicas o curso também me ajuda a desenvolver minhas habilidades comportamentais, ou soft skills, essenciais para o mercado de trabalho. 
+Olá, meu nome é Ystefani, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. Além da faculdade, concluir presencialmente o "Condomínio Digital", onde desenvolvi habilidades técnicas em programação, como Python e Java, além de aprender sobre bancos de dados. Também faço um curso adicional de Java para aprimorar ainda mais meus conhecimentos. Além das competências técnicas o curso também me ajudou a desenvolver minhas habilidades comportamentais, ou soft skills, essenciais para o mercado de trabalho. 
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ystefani-mariana-112093256/) 
